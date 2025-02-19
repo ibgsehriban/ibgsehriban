@@ -1,10 +1,12 @@
-- 👋 Hi, I’m sehriban
-- 👀 I’m interested in bioinformatics and data science
-- 🌱 I’m currently learning R programming
-- 💞️ I’m looking to collaborate on R programmin and python 
-- 📫 you can send me email by sehriban.buyukkilic@ibg.edu.tr
+👋 Hi, I’m Şehriban Büyükkılıç.
+👀 I’m passionate about bioinformatics, data science, and computational biology.
+🌱 I’m currently enhancing my skills in Python, R, and C for data analysis and molecular modeling.
+💡 I work with RNA-seq, single-cell analysis, molecular dynamics, and machine learning for biomedical research.
+💞️ I’m open to collaborations on NGS data analysis, bioinformatics pipelines, and statistical modeling.
+📫 Feel free to reach out via email: sehriban.buyukkilic@ibg.edu.tr.
 
-https://www.youtube.com/watch?v=t_62cbWQYrQ
+
+https://www.linkedin.com/in/%C5%9Fehriban-b-722aa31a9/
 
 
 <!---
